@@ -4,7 +4,6 @@ title: gogoochan
 theme: PaperMod
 paginate: 5
 
-
 sectionPagesMenu: main
 menus:
   main: 
